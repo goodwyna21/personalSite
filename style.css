@@ -1,0 +1,22 @@
+:root{
+	background-color: rgb(48, 48, 46);
+}
+
+.projects{
+	background-color: pink;
+}
+
+.projGrid{
+	display: grid;
+	grid-template-columns: auto auto auto;
+	background-color: orange;
+}
+
+.projCell{
+	padding: 5%;
+	margin: 8%;
+	border-radius: 10%;
+	aspect-ratio: 5 / 4;
+	background-color: blue;
+	border: 1px solid black;
+}
